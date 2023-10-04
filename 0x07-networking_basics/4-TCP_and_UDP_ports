@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# script that displays a TCP and UDP list
+
+netstat -l
